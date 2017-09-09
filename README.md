@@ -9,8 +9,8 @@ Sample to display with Express.
 
 ## Usage
 
-1. cd express-display-sample
-2. npm install
+1. $ cd express-display-sample
+2. $ npm install
 3. $ node app.js
 4. Access http://127.0.0.1:1234/ in the browser.
 
