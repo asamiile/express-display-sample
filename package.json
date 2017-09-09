@@ -1,0 +1,19 @@
+{
+  "name": "express-display-sample",
+  "version": "1.0.0",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "jade": "^1.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asamiile/express-display-sample.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asami Kakuishi",
+  "license": "MIT"
+}
